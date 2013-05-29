@@ -1,0 +1,17 @@
+
+<testcases>
+    <!-- SAMPLE TEST CASE -->
+    <case>
+        <url>http://wan.jd.net/app/client.action?source=mobile&timestamp=201212130315&clientIp=210.192.12.32&client=HTC&function=getGameTypes&sign=43bf0a5f20467c343278a5c1ccb7232d</url>
+    </case>
+    
+    <!-- SAMPLE TEST CASE -->
+    <!--
+    <case>
+        <url>http://search.yahooapis.com/WebSearchService/V1/webSearch</url>
+        <method>POST</method>
+        <body><![CDATA[appid=YahooDemo&query=pylot]]></body>
+        <add_header>Content-type: application/x-www-form-urlencoded</add_header>
+    </case>
+    -->
+</testcases>
